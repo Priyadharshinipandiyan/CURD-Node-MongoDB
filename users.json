@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Alice Smith",
+      "age": 28,
+      "department": "Human Resources"
+    },
+    {
+      "name": "Bob Johnson",
+      "age": 34,
+      "department": "Finance"
+    },
+    {
+      "name": "Charlie Brown",
+      "age": 45,
+      "department": "Engineering"
+    }
+  ]
+}
